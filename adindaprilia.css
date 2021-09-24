@@ -1,0 +1,178 @@
+/* @import url('https://fonts.googleapis.com/css2?family=BenchNine:wght@300&display=swap'); */
+
+body {
+    background-color: rgb(214, 212, 209);
+}
+
+.img{
+    text-align: center;
+    background-color: rgb(48, 47, 47);
+}
+.ukuran-gambar{
+    width: 20%;
+    height: 20%;
+}
+.center {
+    text-align: center;
+}
+.name {
+    /* background-color:rgb(34, 31, 31); */
+    max-width:100%;
+    min-height: 50px;
+    /* thypography */
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    line-height: 30px;
+}
+
+.subjudul {
+    font-size: 80%;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    line-height: 2px;
+    text-align: center;
+}
+
+.opening {
+    font-size: 10px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 20px;
+    text-align: center
+}
+
+.perin{
+    background-color: rgb(102, 102, 102);
+   color: honeydew;
+    font-size: 20px;
+    max-width: 100%;
+    min-height: 5px;
+    font-family: 'BenchNine', sans-serif ;
+    text-align: center;
+}
+/* biodata */
+.biodata {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 15px; 
+}
+.isi-0 {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 5px;
+    width: 3%; 
+    height: 3%;
+}
+.education {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 15px;
+
+}
+/* education image */
+.isi-1{
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 15px;
+    width: 3%; 
+    height: 3%;
+}
+.table {
+    margin : 1px 20px 10px 500px;
+}
+
+/* organitazional image */
+.organitazional {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 15px;
+}
+.isi-2 {
+    width: 3%; 
+    height: 3%;
+}
+
+
+/* achievement image */
+.achievement-isi {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 20px;
+}
+.isi-3 {
+    width: 3%; 
+    height: 3%;
+    text-align: center;
+}
+
+/* inspiration */
+.inspiration-isi {
+    max-width: 100%;
+    min-height: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'BenchNine', sans-serif ;
+    line-height: 20px;
+}
+.isi-4 {
+    width: 3%; 
+    height: 3%;
+    text-align: center;
+}
+.inspiration {
+    text-align: center;
+}
+
+/* my inspiration */
+.isi-5 {
+    width: 3%; 
+    height: 3%;
+    text-align: center;
+}
+.judulinspirasi {
+    text-align: center;
+}
+.isiinspirasi {
+    text-align: center;
+}
+:root {
+    --greycolor: rgb(165, 163, 163);
+}
+
+.kotak-1 {
+    width: 100%;
+    height: 120px;
+    background-color: rgb(165, 163, 163);
+}
+
+.kotak-2 {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(165, 163, 163) ;
+}
+
+.kotak-3 {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(165, 163, 163) ;
+}
+
